@@ -1,8 +1,8 @@
 # DICOM-Resizer
-Contains a simple function that resizes DICOM images for Breast Cancer images
+Contains a simple function that resizes DICOM images for Breast Cancer images. 
 
 # DESCRIPTION
-Onboarding Project for loading and resizing DICOM images. Features a function that takes three arguments: 
+Part of an onboarding project to learn how to resize DICOM images (eventually buiding up to training a Convolutional Neural Network.) Features a function that takes three arguments: 
 
 dicom_resize(path, dimension, savedir)
 
